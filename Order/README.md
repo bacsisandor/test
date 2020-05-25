@@ -1,7 +1,7 @@
 #### Dependencies:
 - Order &#8594; ClassicPotency
 
-### Requirements
+#### Requirements
 - **O1** "The order of a modeling element can be regarded as a measure of its set-theoretic classification power, since it corresponds to the maximum depth of the “type-of” relationships originating from an element." In our interpretation, order can only be assigned to nodes.
 
 - **O2** The order of a node must be less than or equal to its level.

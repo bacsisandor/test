@@ -1,7 +1,7 @@
 #### Dependencies:
 - ClassicPotency &#8594; BasicModule
 
-### Requirements:
+#### Requirements:
 - **C1** "As its name implies, the level of a model element is an integer representing the model level in which the element resides." Therefore, nodes, edges, and fields must be assigned a level n, which marks that a model element is on level n.
 
 - **C2** The level of a model element must be greater than or equal to 0.

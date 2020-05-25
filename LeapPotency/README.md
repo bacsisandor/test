@@ -1,7 +1,7 @@
 #### Dependencies:
 - LeapPotency &#8594; ClassicPotency
 
-### Requirements:
+#### Requirements:
 - **LP1** "Clabjects and references with a leap potency of n can be instantiated exactly n meta-levels below, but not at intermediate meta-levels." This is conceptually equivalent to skipping the instantiation of the model element at the intermediate levels. Only nodes and edges can have leap potency.
 
 - **LP2** Classic potency and leap potency cannot be used in conjunction on a model element, as their semantics would overlap.
