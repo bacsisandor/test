@@ -13,4 +13,4 @@
 - **LP5** After an instantiation, the potency of the instance node (or edge) and the potency of any contained fields must be 0.
 
 #### References:
-- Lara, J.D., Guerra, E., Pérez, R.C., & Moreno-Llorena, J. (2014). Extending Deep Meta-Modelling for Practical Model-Driven Engineering. Comput. J., 57, 36-58.
+- de Lara, J., Guerra, E., Cobos, R., Moreno-Llorena, J.: Extending Deep Meta-Modelling for Practical Model-Driven Engineering. The Computer Journal 57(1), 36–58 (2012). DOI 10.1093/comjnl/bxs144

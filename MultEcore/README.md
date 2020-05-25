@@ -4,5 +4,4 @@
 
 
 #### References:
-- Macías, F., Rutle, A., Stolz, V., Rodríguez-Echeverría, R., & Wolter, U. (2018). An Approach to Flexible Multilevel Modelling. Enterp. Model. Inf. Syst. Archit. Int. J. Concept. Model., 13, 10:1-10:35.
-- Macías, Fernando & Rutle, Adrian & Stolz, Volker & Rodriguez, Alejandro. (2017). Multilevel Modelling with MultEcore: A Contribution to the MULTI 2017 Challenge. 
+- Macías, F., Rutle, A., Stolz, V., Rodriguez-Echeverria, R., Wolter, U.: An approach to ﬂexible multilevel modelling. Enterprise Modelling and Information Systems Architectures 13, 10:1–10:35 (2018). DOI 10.18417/emisa.13.10. URL http://dblp.unitrier.de/db/journals/emisaij/emisaij13.htmlMaciasRSRW18
